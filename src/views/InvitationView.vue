@@ -52,42 +52,42 @@
         <p class="footer-text">Pupuk Indonesia 2022</p>
       </div>
       <img src="../assets/pura.svg" alt="Pura" class="pura" />
-      <img
-        src="../assets/barong-line.svg"
-        alt="Barong Line"
-        class="barong-line"
-      />
     </div>
+
+    <Vue3Lottie
+      :animationData="animationData"
+      :height="200"
+      :width="200"
+      class="barong-lottie"
+    />
   </div>
 </template>
 
 <script>
 import User from "../services/user";
+import animationData from "../assets/barong.json";
 
 export default {
   data: () => ({
     user: null,
-    audioPlayer: null,
+    animationData,
   }),
   created() {
     this.id = this.$route.params.id;
 
     this.user = User.getUser(this.id);
-    console.log(User.getUser(124));
+
+    this.animation = animationData;
   },
   mounted() {
-    window.addEventListener("scroll", this.scrollFunction);
-    this.audioPlayer = this.$refs.myAudio;
-    // this.audioPlayer.play();
+    // this.$refs.anim.play();
   },
   methods: {
     redirect() {
       console.log("asd");
-      this.audioPlayer.play();
       // window.location.href = "https://google.com/contact";
     },
     scrollFunction() {
-      this.audioPlayer.play();
       console.log("scrolling from method");
     },
   },

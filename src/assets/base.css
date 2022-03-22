@@ -119,13 +119,14 @@ body {
   height: 15rem;
 }
 
-.barong-line {
+.barong-lottie {
   position: absolute;
   width: 30rem;
   bottom: -5rem;
   right: -5rem;
   transform: rotate(-30deg);
   z-index: -10;
+  opacity: 40%;
 }
 
 .tooltip {
