@@ -1,5 +1,5 @@
 <template>
-  <div class="about">
+  <div class="invitation">
     <h1>Dear,</h1>
     <h1>{{ user.name }}</h1>
     <h2>you are invited to acara</h2>
