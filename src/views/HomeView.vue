@@ -1,9 +1,5 @@
-<script setup>
-import TheWelcome from '@/components/TheWelcome.vue'
-</script>
-
 <template>
-  <main>
-    <TheWelcome />
+  <main class="home">
+    <img src="../assets/barong.svg" class="barong" />
   </main>
 </template>
