@@ -32,6 +32,20 @@ body {
   align-items: center;
 }
 
+.pre-invitation {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.music {
+  display: none;
+  height: 0;
+  width: 0;
+}
+
 .barong {
   width: 20rem;
 }
@@ -214,6 +228,6 @@ body {
     rgba(50, 151, 211, 0.3) 0 0 0 4px;
 }
 
-.audio-box {
+/* .audio-box {
   margin: 1rem auto;
-}
+} */
