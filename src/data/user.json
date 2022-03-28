@@ -1,10 +1,1120 @@
 [
   {
-    "id": 123,
-    "name": "CV. Aku Kamu Kita"
+    "id": "1ri",
+    "name": "CV. AGRO MAKMUR MANDIRI"
   },
   {
-    "id": 124,
-    "name": "PT Dia Mereka"
+    "id": "2ra",
+    "name": "CV. ALDEBARAN SEJAHTERA"
+  },
+  {
+    "id": "3ri",
+    "name": "CV. BERKAH USAHA MANDIRI"
+  },
+  {
+    "id": "4ng",
+    "name": "CV. KHOUW NAM HONG"
+  },
+  {
+    "id": "5at",
+    "name": "CV. PUTRA HIDAYAT"
+  },
+  {
+    "id": "6ra",
+    "name": "CV. SINAR GRAHA MITRA"
+  },
+  {
+    "id": "7ma",
+    "name": "CV. SUBUR MAKMUR BERSAMA"
+  },
+  {
+    "id": "8ni",
+    "name": "CV. SUBUR TANI"
+  },
+  {
+    "id": "9an",
+    "name": "CV. SULTAN TANI ANDALAN"
+  },
+  {
+    "id": "10ra",
+    "name": "CV. TIGARAKSA TRADA SEJAHTERA"
+  },
+  {
+    "id": "11ri",
+    "name": "PT. ALFA PRIMA LESTARI"
+  },
+  {
+    "id": "12ng",
+    "name": "PT. PUNCAK MANDALA AGUNG"
+  },
+  {
+    "id": "13ra",
+    "name": "PT. PUNCAK PERDANA NUSANTARA"
+  },
+  {
+    "id": "14wa",
+    "name": "PT. TUNAS BARU KHATULISTIWA"
+  },
+  {
+    "id": "15ra",
+    "name": "CV. CAHAYA ANUGERAH SEJAHTERA"
+  },
+  {
+    "id": "16mi",
+    "name": "CV. DAYA GAWE SABUMI"
+  },
+  {
+    "id": "17at",
+    "name": "CV. NOOR AFIAT"
+  },
+  {
+    "id": "18ni",
+    "name": "CV. SINAR TANI"
+  },
+  {
+    "id": "19di",
+    "name": "PT. AGUSTINA KARYA ABADI"
+  },
+  {
+    "id": "20ri",
+    "name": "PT. ANEKA TANI MANDIRI"
+  },
+  {
+    "id": "21ah",
+    "name": "PT. GOAUTAMA SINARBATUAH"
+  },
+  {
+    "id": "22eo",
+    "name": "PT. WANGSA LIMA BORNEO"
+  },
+  {
+    "id": "23ai",
+    "name": "CV. BUUN PERMAI"
+  },
+  {
+    "id": "24ra",
+    "name": "CV. CAHAYA ANUGERAH SEJAHTERA"
+  },
+  {
+    "id": "25ng",
+    "name": "CV. KHOUW NAM HONG"
+  },
+  {
+    "id": "26at",
+    "name": "CV. NOOR AFIAT"
+  },
+  {
+    "id": "27re",
+    "name": "CV. PANDI BORE"
+  },
+  {
+    "id": "28ri",
+    "name": "PT. ANEKA TANI MANDIRI"
+  },
+  {
+    "id": "29ya",
+    "name": "PT. BANGUN SUKMA JAYA"
+  },
+  {
+    "id": "30ga",
+    "name": "PT. INDORAMA ARTHA NIAGA"
+  },
+  {
+    "id": "31ng",
+    "name": "PT. PERUSAHAAN PERDAGANGAN INDONESIA - KALTENG"
+  },
+  {
+    "id": "32ya",
+    "name": "PT. SANG HYANG SERI (PERSERO) - PALANGKARAYA"
+  },
+  {
+    "id": "33na",
+    "name": "PT. SAMUDA SURYA PERDANA"
+  },
+  {
+    "id": "34ya",
+    "name": "CV. ABI JAYA"
+  },
+  {
+    "id": "35ri",
+    "name": "CV. AGRO PRIMA LESTARI"
+  },
+  {
+    "id": "36te",
+    "name": "CV. AGROMATE"
+  },
+  {
+    "id": "37sa",
+    "name": "CV. AN NISA"
+  },
+  {
+    "id": "38ng",
+    "name": "CV. DAYA PASER ENGINEERING"
+  },
+  {
+    "id": "39ri",
+    "name": "CV. GOMO MANDIRI"
+  },
+  {
+    "id": "40ra",
+    "name": "CV. JAYA SAWIT SEJAHTERA"
+  },
+  {
+    "id": "41su",
+    "name": "CV. MANSU"
+  },
+  {
+    "id": "42an",
+    "name": "CV. PASER BERLIAN"
+  },
+  {
+    "id": "43ng",
+    "name": "CV. SIMA GEMILANG"
+  },
+  {
+    "id": "44ra",
+    "name": "CV. TUNAS SAWIT SEJAHTERA"
+  },
+  {
+    "id": "45da",
+    "name": "PT. SANG HYANG SERI (PERSERO) - SAMARINDA"
+  },
+  {
+    "id": "46ri",
+    "name": "UD. TANI JAYA LESTARI"
+  },
+  {
+    "id": "47ni",
+    "name": "UD. YAN BERKAT TANI"
+  },
+  {
+    "id": "48ri",
+    "name": "CV. ARFI JAYA MANDIRI"
+  },
+  {
+    "id": "49ri",
+    "name": "CV. BORNEO RAYA LESTARI"
+  },
+  {
+    "id": "50te",
+    "name": "CV. BUANA DATTE"
+  },
+  {
+    "id": "51ai",
+    "name": "CV. CITRA SAWIT PALEWAI"
+  },
+  {
+    "id": "52ik",
+    "name": "CV. PUTRA UTAMA SEBATIK"
+  },
+  {
+    "id": "53o)",
+    "name": "PT. Sang Hyang Seri (Persero)"
+  },
+  {
+    "id": "54o)",
+    "name": "PT. Sang Hyang Seri (Persero)"
+  },
+  {
+    "id": "55o)",
+    "name": "PT. Sang Hyang Seri (Persero)"
+  },
+  {
+    "id": "56ea",
+    "name": "UD. Turatea"
+  },
+  {
+    "id": "57ea",
+    "name": "UD. Turatea"
+  },
+  {
+    "id": "58ru",
+    "name": "UD. Tani Baru"
+  },
+  {
+    "id": "59ru",
+    "name": "UD. Tani Baru"
+  },
+  {
+    "id": "60ru",
+    "name": "UD. Tani Baru"
+  },
+  {
+    "id": "61ia",
+    "name": "Koperasi Perdagangan Indonesia"
+  },
+  {
+    "id": "62ia",
+    "name": "Koperasi Perdagangan Indonesia"
+  },
+  {
+    "id": "63ia",
+    "name": "Koperasi Perdagangan Indonesia"
+  },
+  {
+    "id": "64ia",
+    "name": "Koperasi Perdagangan Indonesia"
+  },
+  {
+    "id": "65ia",
+    "name": "PT. Perusahaan Perdagangan Indonesia"
+  },
+  {
+    "id": "66ia",
+    "name": "PT. Perusahaan Perdagangan Indonesia"
+  },
+  {
+    "id": "67ia",
+    "name": "PT. Perusahaan Perdagangan Indonesia"
+  },
+  {
+    "id": "68ia",
+    "name": "PT. Perusahaan Perdagangan Indonesia"
+  },
+  {
+    "id": "69ju",
+    "name": "CV. Amaliah Putra Mamuju"
+  },
+  {
+    "id": "70ju",
+    "name": "CV. Amaliah Putra Mamuju"
+  },
+  {
+    "id": "71ju",
+    "name": "CV. Amaliah Putra Mamuju"
+  },
+  {
+    "id": "72o)",
+    "name": "PT. Sang Hyang Seri (Persero)"
+  },
+  {
+    "id": "73o)",
+    "name": "PT. Sang Hyang Seri (Persero)"
+  },
+  {
+    "id": "74o)",
+    "name": "PT. Sang Hyang Seri (Persero)"
+  },
+  {
+    "id": "75ri",
+    "name": "PT. RIDHA SEJAHTERA MANDIRI"
+  },
+  {
+    "id": "76ni",
+    "name": "CV. Haq Tani"
+  },
+  {
+    "id": "77ni",
+    "name": "CV. Haq Tani"
+  },
+  {
+    "id": "78ni",
+    "name": "CV. Haq Tani"
+  },
+  {
+    "id": "79ni",
+    "name": "CV. Bunga Tani"
+  },
+  {
+    "id": "80ni",
+    "name": "CV. Bunga Tani"
+  },
+  {
+    "id": "81sa",
+    "name": "Sabar Jaya Sentosa"
+  },
+  {
+    "id": "82sa",
+    "name": "Sabar Jaya Sentosa"
+  },
+  {
+    "id": "83ia",
+    "name": "PT. Perusahaan Perdagangan Indonesia"
+  },
+  {
+    "id": "84ia",
+    "name": "PT. Perusahaan Perdagangan Indonesia"
+  },
+  {
+    "id": "85ia",
+    "name": "PT. Perusahaan Perdagangan Indonesia"
+  },
+  {
+    "id": "86ia",
+    "name": "PT. Perusahaan Perdagangan Indonesia"
+  },
+  {
+    "id": "87ne",
+    "name": "CV. We'ane"
+  },
+  {
+    "id": "88ne",
+    "name": "CV. We'ane"
+  },
+  {
+    "id": "89ne",
+    "name": "CV. We'ane"
+  },
+  {
+    "id": "90ne",
+    "name": "CV. We'ane"
+  },
+  {
+    "id": "91ni",
+    "name": "PT. Pusaka Agro Tani"
+  },
+  {
+    "id": "92ni",
+    "name": "PT. Pusaka Agro Tani"
+  },
+  {
+    "id": "93ni",
+    "name": "PT. Pusaka Agro Tani"
+  },
+  {
+    "id": "94ni",
+    "name": "PT. Pusaka Agro Tani"
+  },
+  {
+    "id": "95en",
+    "name": "CV. Yosi'en"
+  },
+  {
+    "id": "96en",
+    "name": "CV. Yosi'en"
+  },
+  {
+    "id": "97en",
+    "name": "CV. Yosi'en"
+  },
+  {
+    "id": "98sa",
+    "name": "Manado Agro Sentosa"
+  },
+  {
+    "id": "99sa",
+    "name": "Manado Agro Sentosa"
+  },
+  {
+    "id": "100sa",
+    "name": "Manado Agro Sentosa"
+  },
+  {
+    "id": "101sa",
+    "name": "Manado Agro Sentosa"
+  },
+  {
+    "id": "102ma",
+    "name": "CV. Buana Prima"
+  },
+  {
+    "id": "103ma",
+    "name": "CV. Buana Prima"
+  },
+  {
+    "id": "104ma",
+    "name": "CV. Buana Prima"
+  },
+  {
+    "id": "105ma",
+    "name": "CV. Buana Prima"
+  },
+  {
+    "id": "106ia",
+    "name": "PT. Perusahaan Perdagangan Indonesia"
+  },
+  {
+    "id": "107ia",
+    "name": "PT. Perusahaan Perdagangan Indonesia"
+  },
+  {
+    "id": "108ia",
+    "name": "PT. Perusahaan Perdagangan Indonesia"
+  },
+  {
+    "id": "109ia",
+    "name": "PT. Perusahaan Perdagangan Indonesia"
+  },
+  {
+    "id": "110lu",
+    "name": "PT. Sang Hyang Seri (Persero) - Palu"
+  },
+  {
+    "id": "111lu",
+    "name": "PT. Sang Hyang Seri (Persero) - Palu"
+  },
+  {
+    "id": "112lu",
+    "name": "PT. Sang Hyang Seri (Persero) - Palu"
+  },
+  {
+    "id": "113ah",
+    "name": "CV. Sinar Terang Anugerah"
+  },
+  {
+    "id": "114ah",
+    "name": "CV. Sinar Terang Anugerah"
+  },
+  {
+    "id": "115ri",
+    "name": "Jaka Utama Mandiri"
+  },
+  {
+    "id": "116ri",
+    "name": "Jaka Utama Mandiri"
+  },
+  {
+    "id": "117ri",
+    "name": "Jaka Utama Mandiri"
+  },
+  {
+    "id": "118ra",
+    "name": "CV. Bombana Putra"
+  },
+  {
+    "id": "119ra",
+    "name": "CV. Bombana Putra"
+  },
+  {
+    "id": "120ra",
+    "name": "CV. Bombana Putra"
+  },
+  {
+    "id": "121ya",
+    "name": "CV. Tunas Inti Karya"
+  },
+  {
+    "id": "122ya",
+    "name": "CV. Tunas Inti Karya"
+  },
+  {
+    "id": "123ya",
+    "name": "CV. Tunas Inti Karya"
+  },
+  {
+    "id": "124ya",
+    "name": "CV. Tunas Inti Karya"
+  },
+  {
+    "id": "125ah",
+    "name": "CV. Sandang Murah"
+  },
+  {
+    "id": "126ah",
+    "name": "CV. Sandang Murah"
+  },
+  {
+    "id": "127ah",
+    "name": "CV. Sandang Murah"
+  },
+  {
+    "id": "128si",
+    "name": "PT. Marina Putra Sulawesi"
+  },
+  {
+    "id": "129si",
+    "name": "PT. Marina Putra Sulawesi"
+  },
+  {
+    "id": "130si",
+    "name": "PT. Marina Putra Sulawesi"
+  },
+  {
+    "id": "131si",
+    "name": "PT. Marina Putra Sulawesi"
+  },
+  {
+    "id": "132ia",
+    "name": "PT. Perusahaan Perdagangan Indonesia"
+  },
+  {
+    "id": "133ia",
+    "name": "PT. Perusahaan Perdagangan Indonesia"
+  },
+  {
+    "id": "134o)",
+    "name": "PT. Sang Hyang Seri (Persero)"
+  },
+  {
+    "id": "135o)",
+    "name": "PT. Sang Hyang Seri (Persero)"
+  },
+  {
+    "id": "136ma",
+    "name": "UD. Anugerah Utama"
+  },
+  {
+    "id": "137ma",
+    "name": "UD. Anugerah Utama"
+  },
+  {
+    "id": "138ma",
+    "name": "UD. Anugerah Utama"
+  },
+  {
+    "id": "139ma",
+    "name": "UD. Anugerah Utama"
+  },
+  {
+    "id": "140ra",
+    "name": "PT. Gresik Cipta Sejahtera"
+  },
+  {
+    "id": "141ra",
+    "name": "PT. Gresik Cipta Sejahtera"
+  },
+  {
+    "id": "142ra",
+    "name": "PT. Gresik Cipta Sejahtera"
+  },
+  {
+    "id": "143ra",
+    "name": "PT. Gresik Cipta Sejahtera"
+  },
+  {
+    "id": "144ra",
+    "name": "PT. Mega Eltra"
+  },
+  {
+    "id": "145ra",
+    "name": "PT. Mega Eltra"
+  },
+  {
+    "id": "146ra",
+    "name": "PT. Mega Eltra"
+  },
+  {
+    "id": "147ra",
+    "name": "PT. Mega Eltra"
+  },
+  {
+    "id": "148sa",
+    "name": "PT. Raja Putra Perkasa"
+  },
+  {
+    "id": "149sa",
+    "name": "PT. Raja Putra Perkasa"
+  },
+  {
+    "id": "150as",
+    "name": "CV. Anjas"
+  },
+  {
+    "id": "151as",
+    "name": "CV. Anjas"
+  },
+  {
+    "id": "152as",
+    "name": "CV. Anjas"
+  },
+  {
+    "id": "153am",
+    "name": "PT. Rizky Astri As-Salam"
+  },
+  {
+    "id": "154am",
+    "name": "PT. Rizky Astri As-Salam"
+  },
+  {
+    "id": "155am",
+    "name": "PT. Rizky Astri As-Salam"
+  },
+  {
+    "id": "156am",
+    "name": "PT. Rizky Astri As-Salam"
+  },
+  {
+    "id": "157ia",
+    "name": "Koperasi Perdagangan Indonesia"
+  },
+  {
+    "id": "158ni",
+    "name": "CV. Karya Tani"
+  },
+  {
+    "id": "159ni",
+    "name": "CV. Karya Tani"
+  },
+  {
+    "id": "160ia",
+    "name": "PT. Perusahaan Perdagangan Indonesia"
+  },
+  {
+    "id": "161ia",
+    "name": "PT. Perusahaan Perdagangan Indonesia"
+  },
+  {
+    "id": "162ia",
+    "name": "PT. Perusahaan Perdagangan Indonesia"
+  },
+  {
+    "id": "163ia",
+    "name": "CV. Mulia"
+  },
+  {
+    "id": "164ia",
+    "name": "CV. Mulia"
+  },
+  {
+    "id": "165ia",
+    "name": "CV. Mulia"
+  },
+  {
+    "id": "166ni",
+    "name": "CV. Subur Tani"
+  },
+  {
+    "id": "167ni",
+    "name": "CV. Subur Tani"
+  },
+  {
+    "id": "168re",
+    "name": "CV. Karya Tani Kamanre"
+  },
+  {
+    "id": "169re",
+    "name": "CV. Karya Tani Kamanre"
+  },
+  {
+    "id": "170ia",
+    "name": "CV. Destika Indonesia"
+  },
+  {
+    "id": "171ia",
+    "name": "CV. Destika Indonesia"
+  },
+  {
+    "id": "172ia",
+    "name": "CV. Destika Indonesia"
+  },
+  {
+    "id": "173ya",
+    "name": "CV. Semoga Raya"
+  },
+  {
+    "id": "174ri",
+    "name": "CV. Karya Sidenreng Mandiri"
+  },
+  {
+    "id": "175ia",
+    "name": "PT. Hidayat Mandala Ria"
+  },
+  {
+    "id": "176ia",
+    "name": "PT. Hidayat Mandala Ria"
+  },
+  {
+    "id": "177ra",
+    "name": "PT. Gresik Cipta Sejahtera"
+  },
+  {
+    "id": "178ra",
+    "name": "PT. Gresik Cipta Sejahtera"
+  },
+  {
+    "id": "179ra",
+    "name": "PT. Gresik Cipta Sejahtera"
+  },
+  {
+    "id": "180ra",
+    "name": "PT. Gresik Cipta Sejahtera"
+  },
+  {
+    "id": "181ra",
+    "name": "PT. Madina Utama Sejahtera"
+  },
+  {
+    "id": "182o)",
+    "name": "PT. Sang Hyang Seri (Persero)"
+  },
+  {
+    "id": "183o)",
+    "name": "PT. Sang Hyang Seri (Persero)"
+  },
+  {
+    "id": "184o)",
+    "name": "PT. Sang Hyang Seri (Persero)"
+  },
+  {
+    "id": "185ni",
+    "name": "PT. Dhanu Sumber Tani"
+  },
+  {
+    "id": "186ni",
+    "name": "PT. Dhanu Sumber Tani"
+  },
+  {
+    "id": "187ya",
+    "name": "CV. Harman Jaya"
+  },
+  {
+    "id": "188ni",
+    "name": "CV. Mekar Tani"
+  },
+  {
+    "id": "189ri",
+    "name": "PT. Kantita Optima Lestari"
+  },
+  {
+    "id": "190ri",
+    "name": "PT. Kantita Optima Lestari"
+  },
+  {
+    "id": "191ri",
+    "name": "PT. Kantita Optima Lestari"
+  },
+  {
+    "id": "192ma",
+    "name": "CV. Batara Prima"
+  },
+  {
+    "id": "193ni",
+    "name": "PT. SURYANI"
+  },
+  {
+    "id": "194ri",
+    "name": "CV. ABK MITRA MANDIRI"
+  },
+  {
+    "id": "195ri",
+    "name": "CV. PELITA MANDIRI"
+  },
+  {
+    "id": "196sa",
+    "name": "CV. PUTRA BUNGSU SESA"
+  },
+  {
+    "id": "197ia",
+    "name": "PT. RAJA KOKOH INDONESIA"
+  },
+  {
+    "id": "198an",
+    "name": "PT. PUPUK INDONESIA PANGAN"
+  },
+  {
+    "id": "199is",
+    "name": "CV. Andika Pratama Bugis"
+  },
+  {
+    "id": "200is",
+    "name": "CV. Andika Pratama Bugis"
+  },
+  {
+    "id": "201ri",
+    "name": "CV. Megatama Mandiri"
+  },
+  {
+    "id": "202ri",
+    "name": "CV. Megatama Mandiri"
+  },
+  {
+    "id": "203ma",
+    "name": "CV. Anugerah Utama"
+  },
+  {
+    "id": "204si",
+    "name": "Tani Muda Sulawesi"
+  },
+  {
+    "id": "205si",
+    "name": "Tani Muda Sulawesi"
+  },
+  {
+    "id": "206si",
+    "name": "Tani Muda Sulawesi"
+  },
+  {
+    "id": "207"
+  },
+  {
+    "id": "208da",
+    "name": "PT MITRA BUMI PERSADA"
+  },
+  {
+    "id": "209sa",
+    "name": "CV SABEENA RIZKY PRAKASA"
+  },
+  {
+    "id": "210ps",
+    "name": "ANDI PS"
+  },
+  {
+    "id": "211ur",
+    "name": "PT KARYA PELITA MAKMUR"
+  },
+  {
+    "id": "212ni",
+    "name": "PT KAUTSAR NAGAN RAYA TANI"
+  },
+  {
+    "id": "213es",
+    "name": "PT ANAWA AGRO SUKSES"
+  },
+  {
+    "id": "214ma",
+    "name": "CV. Wiryatama"
+  },
+  {
+    "id": "215sa",
+    "name": "CV Insan Adhi Yaksa"
+  },
+  {
+    "id": "216ri",
+    "name": "CV Sahabat Sejahtera Mandiri"
+  },
+  {
+    "id": "217ma",
+    "name": "PT Rahmat Gemilang Utama"
+  },
+  {
+    "id": "218an",
+    "name": "CV Arief Berlian"
+  },
+  {
+    "id": "219ta",
+    "name": "CV Agro Raya Semesta"
+  },
+  {
+    "id": "220ya",
+    "name": "CV Yudi Yahya"
+  },
+  {
+    "id": "221ur",
+    "name": "CV Agro Cipta Makmur"
+  },
+  {
+    "id": "222ng",
+    "name": "CV Agro Berkah Cemerlang"
+  },
+  {
+    "id": "223as",
+    "name": "PT. PRIMA NUTRIMAS"
+  },
+  {
+    "id": "224ng",
+    "name": "CV. HANIM SETIA CEMERLANG"
+  },
+  {
+    "id": "225ya",
+    "name": "CV. ADEL JAYA"
+  },
+  {
+    "id": "226ur",
+    "name": "CV. DELI AGRO MAKMUR"
+  },
+  {
+    "id": "227ma",
+    "name": "CV Kilang Padi Saurma"
+  },
+  {
+    "id": "228ri",
+    "name": "CV Victory Pande Mandiri"
+  },
+  {
+    "id": "229na",
+    "name": "PD Martadiguna"
+  },
+  {
+    "id": "230sa",
+    "name": "CV Citra Adhi Yaksa"
+  },
+  {
+    "id": "231ma",
+    "name": "PT Matahari Agri Bersama"
+  },
+  {
+    "id": "232es",
+    "name": "PT. OREA TAPSEL SUKSES"
+  },
+  {
+    "id": "233ta",
+    "name": "CV. SINAR AGRO PALUTA"
+  },
+  {
+    "id": "234pt",
+    "name": "Perusahaan Perd. Indonesia, PT"
+  },
+  {
+    "id": "235cv",
+    "name": "Az-Zahra, CV"
+  },
+  {
+    "id": "236au",
+    "name": "Puskud Riau"
+  },
+  {
+    "id": "237pt",
+    "name": "Mega Eltra, PT"
+  },
+  {
+    "id": "238pt",
+    "name": "Agro Tegar Nusantara, PT"
+  },
+  {
+    "id": "239ma",
+    "name": "CV. DORIS BIFATAMA"
+  },
+  {
+    "id": "240ni",
+    "name": "CV. BUNGA TANI"
+  },
+  {
+    "id": "241ju",
+    "name": "CV. TANI MAJU"
+  },
+  {
+    "id": "242yu",
+    "name": "CV. WAHYU"
+  },
+  {
+    "id": "243ti",
+    "name": "CV. ARJUNA SAKTI"
+  },
+  {
+    "id": "244ri",
+    "name": "PT TAZAR GUNA MANDIRI"
+  },
+  {
+    "id": "245ra",
+    "name": "PT MEGA ELTRA"
+  },
+  {
+    "id": "246ia",
+    "name": "PT PERUSAHAAN PERDAGANGAN INDONESIA"
+  },
+  {
+    "id": "247ia",
+    "name": "PT. SOLUSI PETANI INDONESIA"
+  },
+  {
+    "id": "248"
+  },
+  {
+    "id": "249na",
+    "name": "AVENA"
+  },
+  {
+    "id": "250ri",
+    "name": "KAUTSAR CIPTA MANDIRI"
+  },
+  {
+    "id": "251ta",
+    "name": "MEGA JAYA SEMESTA"
+  },
+  {
+    "id": "252ra",
+    "name": "REZA PUTRA"
+  },
+  {
+    "id": "253ri",
+    "name": "SRI MULYA SARI"
+  },
+  {
+    "id": "254ya",
+    "name": "MULYA ASRI JAYA"
+  },
+  {
+    "id": "255ra",
+    "name": "INDAH TANI SEJAHTERA"
+  },
+  {
+    "id": "256ya",
+    "name": "GALUH JAYA"
+  },
+  {
+    "id": "257an",
+    "name": "SUMBER PANGAN"
+  },
+  {
+    "id": "258da",
+    "name": "DAARUL HUDA"
+  },
+  {
+    "id": "259ya",
+    "name": "BINTANG ARYA SATYA"
+  },
+  {
+    "id": "260ni",
+    "name": "CAHAYA TANI"
+  },
+  {
+    "id": "261ng",
+    "name": "SRI AGUNG"
+  },
+  {
+    "id": "262ia",
+    "name": "SUNRISE MULIA"
+  },
+  {
+    "id": "263ah",
+    "name": "MARGI BERKAH"
+  },
+  {
+    "id": "264di",
+    "name": "AGUNG ADHIKARI ABADI"
+  },
+  {
+    "id": "265ur",
+    "name": "TANI MAKMUR"
+  },
+  {
+    "id": "266ri",
+    "name": "BERKAH LESTARI"
+  },
+  {
+    "id": "267ni",
+    "name": "PRAKOSO TANI"
+  },
+  {
+    "id": "268sa",
+    "name": "DEBE AGRINUSA"
+  },
+  {
+    "id": "269ur",
+    "name": "SUBUR MAKMUR"
+  },
+  {
+    "id": "270ni",
+    "name": "KANEKA TANI"
+  },
+  {
+    "id": "271ma",
+    "name": "MITRATAMA"
+  },
+  {
+    "id": "272ng",
+    "name": "FAJAR GEMILANG"
+  },
+  {
+    "id": "273ri",
+    "name": "CIPTA ARTHA MANDIRI"
+  },
+  {
+    "id": "274ma",
+    "name": "AGRO PRIMA"
+  },
+  {
+    "id": "275sa",
+    "name": "MAKMUR SENTOSA"
+  },
+  {
+    "id": "276di",
+    "name": "BINTANG TANI ABADI"
+  },
+  {
+    "id": "277ya",
+    "name": "VICTORIA BOGOR RAYA"
+  },
+  {
+    "id": "278ri",
+    "name": "IDSA JAYA MANDIRI"
+  },
+  {
+    "id": "279sa",
+    "name": "MANUNGGAL ALAM SENTOSA"
+  },
+  {
+    "id": "280ma",
+    "name": "FAJAR PERKASA UTAMA"
   }
 ]

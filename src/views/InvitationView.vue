@@ -5,7 +5,7 @@
       <button class="button-9" @click="seeInvitation">See Invitation</button>
     </div>
     <div class="audio-box">
-      <audio src="/music.aac" ref="music" class="music"></audio>
+      <audio src="/music.aac" loop ref="music" class="music"></audio>
     </div>
 
     <div class="invitation" v-if="showInvitation">
@@ -34,8 +34,7 @@
           <p class="username">{{ user.name }}</p>
           <p>You are invited to</p>
           <h1 class="title">
-            Retail Management Awarding 2021 & Penandatanganan SPJB Retail
-            Komersil 2022
+            Penganugerahan Retail Management 2021 & Penandatanganan SPJB 2022
           </h1>
           <p>Wednesday, 30 March 2022</p>
           <p>19.00 WITA</p>
